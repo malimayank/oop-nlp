@@ -36,7 +36,7 @@ It uses object-oriented programming to provide smart NLP functionalities like:
 ```bash
 # Step-by-step setup to run the project
 
-git clone https://github.com/your-username/NLPCommandX.git && \
+git clone https://github.com/malimayank/oop-nlp && 
 cd NLPCommandX && \
 pip install nlpcloud && \
 # 👇 Don't forget to update the Python file with your real NLPCloud API key:
